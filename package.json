@@ -20,6 +20,7 @@
   "homepage": "https://github.com/luiz-divino/burgerhub-api#readme",
   "devDependencies": {
     "@types/express": "^5.0.6",
+    "@types/module-alias": "^2.0.4",
     "@types/node": "^25.6.0",
     "typescript": "^6.0.3"
   },
