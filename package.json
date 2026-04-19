@@ -32,6 +32,7 @@
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
-    "module-alias": "^2.3.4"
+    "module-alias": "^2.3.4",
+    "zod": "^4.3.6"
   }
 }
